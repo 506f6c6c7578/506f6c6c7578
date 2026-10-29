@@ -43,6 +43,12 @@ derrière les systèmes informatiques.
       Un explorateur pédagogique d'exoplanètes, à partir du catalogue de la NASA.<br>
       <a href="https://exo.paulviandier.com">exo.paulviandier.com</a>
     </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/506f6c6c7578/portfolio/main/src/assets/logos/aegis.svg" alt="" width="48"><br>
+      <strong><a href="https://github.com/506f6c6c7578/Aegis">Aegis</a></strong><br>
+      Un analyseur défensif de sécurité web : après vérification de la propriété d'un domaine par DNS, il examine HTTPS, TLS, en-têtes, CSP, cookies et redirections, puis produit un rapport priorisé et actionnable.<br>
+      <a href="https://aegis.paulviandier.com">aegis.paulviandier.com</a>
+    </td>
   </tr>
 </table>
 
